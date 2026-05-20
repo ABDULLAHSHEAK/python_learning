@@ -1,5 +1,4 @@
-file = open('filehandle/data.txt','r')
+file = open('filehandle/test.txt','r')
 content = file.read()
-
 print(content)
 file.close()
