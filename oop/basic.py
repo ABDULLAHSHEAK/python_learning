@@ -1,4 +1,4 @@
-class student:
-  pass
-student1 = student()
-print(student)
+class Student:
+    name = "Abdullah"
+student1 = Student()
+print(student1.name)
